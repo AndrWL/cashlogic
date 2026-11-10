@@ -1,0 +1,45 @@
+[
+    {
+      "id": "test-tx-003",
+      "time": 1762860000,
+      "description": "Кава Тест",
+      "mcc": 5814,
+      "originalMcc": 5814,
+      "hold": false,
+      "amount": -9500,
+      "operationAmount": -9500,
+      "currencyCode": 980,
+      "commissionRate": 0,
+      "cashbackAmount": 0,
+      "balance": 65500,
+      "comment": "За пиво"
+    },
+    {
+      "id": "test-tx-001",
+      "time": 1762770000,
+      "description": "Кава Тест",
+      "mcc": 5814,
+      "originalMcc": 5814,
+      "hold": false,
+      "amount": -117000,
+      "operationAmount": -2600,
+      "currencyCode": 840,
+      "commissionRate": 0,
+      "cashbackAmount": 0,
+      "balance": 75000
+    },
+    {
+      "id": "test-tx-002",
+      "time": 1742770000,
+      "description": "Оплата LLM",
+      "mcc": 5815,
+      "originalMcc": 5816,
+      "hold": false,
+      "amount": -108000,
+      "operationAmount": -108000,
+      "currencyCode": 980,
+      "commissionRate": 0,
+      "cashbackAmount": 0,
+      "balance": 192000
+    }
+  ]
